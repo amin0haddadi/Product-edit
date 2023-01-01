@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "A53",
+      "price": "4499996",
+      "category": "mobile",
+      "description": "توضیحات",
+      "id": 1
+    },
+    {
+      "name": "felorans",
+      "price": "18000",
+      "category": "book",
+      "description": "توضیحاتی ندارم!",
+      "id": 2
+    },
+    {
+      "name": "poloshirt",
+      "price": "75000",
+      "category": "tshirt",
+      "description": "t-shirt mark",
+      "id": 3
+    }
+  ]
+}
